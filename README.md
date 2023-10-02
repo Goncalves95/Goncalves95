@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Fernando Gonçakves 
-- 👀 I’m interested in change for a new area. Actually I'm e gatronomi. But now wake up again my love by the tec World. How we creat a better World helping other people crating a amazing software. 
-- 🌱 I’m currently learning Full Stack Software Development
+- 👋 Hi, I’m Fernando Gonçalves 
+- 👀 I’m interested in change for a new area. Actually I'm a Kitchen Chef. But now I wake up again my love by the tec. World. How we creat a better World helping other people creating a amazing and Helpful software. 
+- 🌱 I’m currently learning Full Stack Software Development in Code Institute, and take a bachelor's degree in computer science. 
 - 💞️ I’m looking to collaborate on new projects. 
 - 📫 How to reach me:
 
