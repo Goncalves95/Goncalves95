@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on new projects. 
 - 📫 How to reach me:
 
-- Email: fernandojcg22@hotmail.com  
+- Email: fernandojcg22@hotmail.com
+- LinkedIn: https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile
 
 <!---
 Goncalves95/Goncalves95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
