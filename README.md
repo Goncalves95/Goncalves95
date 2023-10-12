@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Full Stack Software Development in Code Institute, and take a bachelor's degree in computer science. 
 - 💞️ I’m looking to collaborate on new projects. 
 - 📫 How to reach me:
-<div style=" display: inline">
-- <a href="www.linkedin.com/in/fernando-goncalves2202" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-- <a href="fernandojcg22@hotmail.com" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  
+[My LinkedIn](www.linkedin.com/in/fernando-goncalves2202)
+-  href="fernandojcg22@hotmail.com" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
   <br>
   <br>
