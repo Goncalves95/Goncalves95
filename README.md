@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 
 - Email: fernandojcg22@hotmail.com
-- LinkedIn: www.linkedin.com/in/fernando-goncalves2202
+- [LinkedIn](www.linkedin.com/in/fernando-goncalves2202)
 
 <!---
 Goncalves95/Goncalves95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
