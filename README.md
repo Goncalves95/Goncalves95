@@ -6,7 +6,6 @@
 - 📫 How to get in touch with me:
 
 <div style="display: inline; list-style-type: none;">
-  <a href="malito:fernandojcg22@hotmail.com" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/fernando-goncalves2202" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </div>
 
