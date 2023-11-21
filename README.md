@@ -34,6 +34,15 @@ I'd like to highlight a few interesting projects I've worked on:
 ## Ongoing Studies
 Currently, I'm deepening my knowledge in Software Engineering for Machine Learning, exploring libraries like [Library Name] and applying concepts in practical projects.
 
+## Languages
+
+| Languages      | Proficiency      |
+| -------------- | -----------------|
+| Portuguese     | Native A2        |
+| Inglês         | Intermediate  B2 |
+| Spanish        |  Superior A1     |
+| German         |  Intermediate B1 |
+
 ## Contact
 - LinkedIn: www.linkedin.com/in/fernando-goncalves2202
 - Email: fernando_jcg22@hotmail.com
