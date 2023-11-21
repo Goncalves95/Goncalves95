@@ -35,8 +35,8 @@ I'd like to highlight a few interesting projects I've worked on:
 Currently, I'm deepening my knowledge in Software Engineering for Machine Learning, exploring libraries like [Library Name] and applying concepts in practical projects.
 
 ## Contact
-- LinkedIn: [Fernando Gonçalves](www.linkedin.com/in/fernando-goncalves2202)
-- Email: [fernando_jcg22@hotmail.com]
+- LinkedIn: www.linkedin.com/in/fernando-goncalves2202
+- Email: fernando_jcg22@hotmail.com
 <!---
 Goncalves95/Goncalves95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
