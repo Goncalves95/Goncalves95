@@ -16,7 +16,7 @@ I'd like to highlight a few interesting projects I've worked on:
 - [Feed the Snake](https://goncalves95.github.io/snake_game/): Snake game developed in HTML, CSS and JavaScript, Developed for my 2nd university project. [Code source](https://github.com/Goncalves95/snake_game)
 - [Love Maths](https://goncalves95.github.io/love-maths/): Maths game developed in HTML, CSS and JavaScript. Developed for the JavaScript  
  university evaluation. [Code source](https://github.com/Goncalves95/love-maths)
-- [Love Maths](love-sandwiches50-20c2d4696594.herokuapp.com/): Love Sandwiches was developed in Python. Developed for the Python university evaluation. Project use Google API and Heroku deployment. [Code source](https://github.com/Goncalves95/LoveSandwiches)
+- [Love Sandwichs](love-sandwiches50-20c2d4696594.herokuapp.com/): Love Sandwiches was developed in Python. Developed for the Python university evaluation. Project use Google API and Heroku deployment. [Code source](https://github.com/Goncalves95/LoveSandwiches)
 
 ## Hackathon Experience
 - Participated in Halloween Hackathon at Code Institute. Developed a Halloween-themed project with my team. [Witchway Tracker](https://sasantazayoni.github.io/PhantomForge/). [Code source](https://github.com/Goncalves95/PhantomForge)
