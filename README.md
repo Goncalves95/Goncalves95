@@ -1,4 +1,4 @@
-# Hello, I'm Fernando Gonçalves 👋
+# Hello, I am Fernando Gonçalves 👋
 
 ## About Me
 I'm a Full Stack Developer studing on Software Engineering for Machine Learning. Currently, I'm further study my knowledge in this fascinating field. I have a passion for creating innovative solutions and I'm always seeking challenges that allow me to learn and grow.
@@ -17,9 +17,11 @@ I'd like to highlight a few interesting projects I've worked on:
 - [Love Maths](https://goncalves95.github.io/love-maths/): Maths game developed in HTML, CSS and JavaScript. Developed for the JavaScript  
  university evaluation. [Code source](https://github.com/Goncalves95/love-maths)
 - [Love Sandwichs](love-sandwiches50-20c2d4696594.herokuapp.com/): Love Sandwiches was developed in Python. Developed for the Python university evaluation. Project use Google API and Heroku deployment. [Code source](https://github.com/Goncalves95/LoveSandwiches)
+- [Hangman 5.0 Game](https://goncalves95.github.io/snake_game/): Hangman 5.0 game developed in Python and deploy on herokuapp. Developed for my 3rd university project. [Code source](https://github.com/Goncalves95/snake_game)
 
 ## Hackathon Experience
-- Participated in Halloween Hackathon at Code Institute. Developed a Halloween-themed project with my team. [Witchway Tracker](https://sasantazayoni.github.io/PhantomForge/). [Code source](https://github.com/Goncalves95/PhantomForge)
+- Participated in "Halloween Hackathon" at Code Institute. Developed a Halloween-themed project with my team. [Witchway Tracker](https://sasantazayoni.github.io/PhantomForge/). [Code source](https://github.com/Goncalves95/PhantomForge)
+- Participated in "SECRET SANTA: A HOLIDAY HACKATHON" at Code Institute. Developed a New Year's countdown project with my team. [Jingle Squad](nacht-falter.github.io/new-years-countdown/index.html). [Code source](https://sasantazayoni.github.io/PhantomForge/)
 
 ## GitHub Statistics
 ![Fernando Gonçalves GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=goncalves95&show_icons=true&theme=default#gh-light-mode-only)
