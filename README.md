@@ -123,11 +123,12 @@ Currently, I'm deepening my knowledge in Software Engineering for Machine Learni
 | Languages      | Proficiency      |
 | -------------- | -----------------|
 | Portuguese     | Native A2        |
-| Inglês         | Intermediate  B2 |
+| English         | Intermediate  B2 |
 | Spanish        |  Superior A1     |
 | German         |  Intermediate B1 |
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/fernando-goncalves2202
+- www.iamfernando.io
 - Email: fernando_jcg22@hotmail.com
 
