@@ -70,6 +70,7 @@ Gradueted on Full Stack Software Development on [Code Institute](https://codeins
 #### IDE
 
 ![VSCode](https://img.shields.io/badge/VSCode%20-%232B2B30.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=007ACC)
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-908a85?logo=gitpod)](https://gitpod.io/#https://github.com/gitpod-io/workspace-images)
 
 #### Design | Wireframes
 
