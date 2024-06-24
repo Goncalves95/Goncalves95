@@ -115,7 +115,7 @@ I'd like to highlight a few interesting projects I've worked on:
 <hr>
 
 ## Ongoing Studies
-Currently, I'm deepening my knowledge in Software Engineering for Machine Learning, exploring libraries like [Library Name] and applying concepts in practical projects.
+Currently, I'm deepening my knowledge in Software Engineering for Machine Learning, exploring libraries like Pandas, Seaborn, Plotly, NumPy, Streamlit and applying concepts in practical projects.
 
 <hr>
 
