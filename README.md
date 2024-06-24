@@ -123,9 +123,9 @@ Currently, I'm deepening my knowledge in Software Engineering for Machine Learni
 
 | Languages      | Proficiency      |
 | -------------- | -----------------|
-| Portuguese     | Native A2        |
+| Portuguese     | Native C2        |
 | English         | Intermediate  B2 |
-| Spanish        |  Superior A1     |
+| Spanish        |  Superior C2    |
 | German         |  Intermediate B1 |
 
 ## Contact
