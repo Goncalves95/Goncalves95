@@ -107,7 +107,7 @@ I'd like to highlight a few interesting projects I've worked on:
 <hr>
 
 ## Certifications
-- [Full Stack Development Certification](Certification Link): Obtained in August 2024
+- [Full Stack Development Certification](https://www.credential.net/9d3b1d62-d3d5-4d8a-812d-2614f9005c35): Obtained in August 2024
 -  Bachelor's Degree in Software Engineering / Data Science from Universidade Aberta Lisbon (2023 - 2026)
 - [Hackathon at Code Institute](https://eu.badgr.com/public/assertions/DcuxCkL4TLCgbJF4cri27Q): Obtained in Octuber 2023
 
