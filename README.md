@@ -4,8 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ### Hi 👋, I am Fernando Gonçalves.
 
- I'm a full-stack software developer based in Zürich, Switzerland.
-
+ I'm a Full Stack Software Development (Predictive Analytics) based in Zürich, Switzerland 🇨🇭.
+ 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-goncalves2202/)
 [![iamfernando.io](https://img.shields.io/badge/My_Website-333?style=for-the-badge)](https://iamfernando.io)
 [![My Repos](https://img.shields.io/badge/My_Repos-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goncalves95?tab=repositories)
