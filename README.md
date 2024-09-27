@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
+
 ## About Me
 I'm a Full Stack Developer specializing in Data Analytics and Machine Learning.
 
@@ -22,6 +23,7 @@ Studing Software Engineering E-learning on [Universidade Aberta Lisboa](https://
 Gradueted on Full Stack Software Development on [Code Institute](https://codeinstitute.net/global/)
 
 <hr>
+
 
 ## Skills
 #### Programming Languages
