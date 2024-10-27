@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 I'm a Full Stack Developer specializing in Data Analytics and Machine Learning.
 
 Studing Software Engineering E-learning on [Universidade Aberta Lisboa](https://portal.uab.pt/).
-Gradueted on Full Stack Software Development on [Code Institute](https://codeinstitute.net/global/)
+Gradueted on Full Stack Software Development (Predictive Analytics) on [Code Institute](https://codeinstitute.net/global/)
 
 <hr>
 
@@ -201,6 +201,6 @@ Currently, I'm deepening my knowledge in Software Engineering for Machine Learni
 
 ## Contact
 - LinkedIn: www.linkedin.com/in/fernando-goncalves2202
-- www.iamfernando.io
+- My Website: www.iamfernando.io
 - Email: fernando_jcg22@hotmail.com
 
