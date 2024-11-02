@@ -124,21 +124,27 @@ I'd like to highlight a few interesting projects I've worked on:
 <hr>
 
 ## Ongoing Studies
-Currently, I'm deepening my knowledge in Software Engineering for Machine Learning, exploring libraries like Pandas, Seaborn, Plotly, NumPy, Streamlit and applying concepts in practical projects.
+
+I am currently expanding my expertise in Software Engineering for Machine Learning. This involves an in-depth exploration of crucial libraries such as Pandas, Seaborn, Plotly, NumPy, and Streamlit. I am actively applying these technologies and concepts to practical projects, enriching my understanding and skills in the field.
 
 <hr>
 
 ## Languages
 
-| Languages      | Proficiency      |
+Here is an overview of the languages I speak along with my proficiency levels:
+
+| Language       | Proficiency      |
 | -------------- | -----------------|
-| Portuguese     | Native C2        |
-| English         | Intermediate  B2 |
-| Spanish        |  Superior C2    |
-| German         |  Intermediate B1 |
+| Portuguese     | Native (C2)      |
+| English        | Intermediate (B2)|
+| Spanish        | Advanced (C2)    |
+| German         | Intermediate (B1)|
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/fernando-goncalves2202
-- My Website: www.iamfernando.io
-- Email: fernando_jcg22@hotmail.com
+
+Feel free to connect with me through the following platforms:
+
+- **LinkedIn**: [Fernando Goncalves](https://www.linkedin.com/in/fernando-goncalves2202)
+- **Website**: [iamfernando.io](http://www.iamfernando.io)
+- **Email**: [fernando_jcg22@hotmail.com](mailto:fernando_jcg22@hotmail.com)
 
