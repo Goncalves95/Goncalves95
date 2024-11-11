@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🚀 About Me
 
-I'm a passionate Full Stack Developer with expertise in Data Analytics and Machine Learning. Currently, I'm enhancing my skills in Software Engineering through the E-learning program at [Universidade Aberta Lisboa](https://portal.uab.pt/). I hold a degree in Full Stack Software Development (Predictive Analytics) from [Code Institute](https://codeinstitute.net/global/).
+I'm a passionate Full Stack Developer with expertise in Data Analytics and Machine Learning. Currently, I'm enhancing my skills in Software Engineering through the E-learning program at [Universidade Aberta Lisboa](https://portal.uab.pt/) 🎓. I hold a degree in Full Stack Software Development (Predictive Analytics) from [Code Institute](https://codeinstitute.net/global/) 🎓.
 
 ![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Goncalves95&theme=react&show_icons=true)
 
