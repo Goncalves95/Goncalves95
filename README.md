@@ -148,3 +148,8 @@ Feel free to connect me through the following platforms:
 - **Website**: [iamfernando.io](http://www.iamfernando.io)
 - **Email**: [fernando_jcg22@hotmail.com](mailto:fernando_jcg22@hotmail.com)
 
+  ---
+
+⭐️ From [Fernando Gonçalves](https://github.com/Goncalves95) 2024
+<hr>
+
