@@ -103,7 +103,7 @@ I'd like to highlight a few interesting projects I've worked on:
 - Participated in "SECRET SANTA: A HOLIDAY HACKATHON" at Code Institute. Developed a New Year's countdown project with my team. [Loading 2024 ...](https://yoda-app-48cdcbb359cb.herokuapp.com/). [Code source](https://github.com/Goncalves95/new-years-countdown)
 - Participated in "Cupid's Code Quest HACKATHON" at Code Institute. This is more than just an app - it's a bridge to unite hearts separated by distance. If you're in a long-distance relationship, you know how challenging it can be to maintain connection and intimacy. [Miles & Smiles ](https://miles-and-smiles-03ded9dd0f57.herokuapp.com/). [Code source](https://github.com/Goncalves95/the-love-bugs?tab=readme-ov-file)
 - Participated in "STAR WARS MAY HACKATHON" at Code Institute.Developed a responsive application that immerses users in the galaxy far, far away with guided meditations, authentic Star Wars sound effects, and various meditation styles to promote inner peace and mindfulness. [INNER FORCE](https://nacht-falter.github.io/new-years-countdown/index.html). [Code source](https://github.com/Goncalves95/star-wars-hackathon-2024)
-- Participated in "Proud Coders 🏳️‍🌈: July 2024 Hackathon" at Code Institute. Developed a app that celebrates diversity and inclusivity in the LGBTQ+ community. The website features a Progress Pride Flag, which is a modified version of the traditional Pride Flag that includes additional colors to represent marginalized groups within the community. [Pride Link](https://nacht-falter.github.io/new-years-countdown/index.html). [Code source](https://github.com/Goncalves95/rainbow_Devs))
+- Participated in "Proud Coders 🏳️‍🌈: July 2024 Hackathon" at Code Institute. Developed a app that celebrates diversity and inclusivity in the LGBTQ+ community. The website features a Progress Pride Flag, which is a modified version of the traditional Pride Flag that includes additional colors to represent marginalized groups within the community. [Pride Link](https://goncalves95.github.io/rainbow_Devs/). [Code source](https://github.com/Goncalves95/rainbow_Devs/)
 
 <hr>
 
@@ -116,10 +116,10 @@ I'd like to highlight a few interesting projects I've worked on:
 
 ## Contributions
 - [Witchway Tracker](https://sasantazayoni.github.io/PhantomForge/): "Witchway Tracker" is a responsive web application developed by the Haunted Hackers team during a hackathon. This Halloween-themed app is designed to help users locate and explore nearby Halloween events in the Dublin area.
-- [Loading 2024 ...](https://yoda-app-48cdcbb359cb.herokuapp.com/): Developed a New Year's countdown project with my team.
+- [INNER FORCE](https://yoda-app-48cdcbb359cb.herokuapp.com/): Developed a New Year's countdown project with my team.
 - [Miles & Smiles ](https://miles-and-smiles-03ded9dd0f57.herokuapp.com/): Welcome to "Miles and Smiles"! This is more than just an app - it's a bridge to unite hearts separated by distance. If you're in a long-distance relationship, you know how challenging it can be to maintain connection and intimacy.
-- [INNER FORCE](https://nacht-falter.github.io/new-years-countdown/index.html): is a responsive application that immerses users in the galaxy far, far away with guided meditations, authentic Star Wars sound effects, and various meditation styles to promote inner peace and mindfulness.
-- [Pride Link](https://nacht-falter.github.io/new-years-countdown/index.html): Welcome to "Pride Link"! This app that celebrates diversity and inclusivity in the LGBTQ+ community. The website features a Progress Pride Flag, which is a modified version of the traditional Pride Flag that includes additional colors to represent marginalized groups within the community.
+- [Loading 2024 ...](https://nacht-falter.github.io/new-years-countdown/index.html): is a responsive application that immerses users in the galaxy far, far away with guided meditations, authentic Star Wars sound effects, and various meditation styles to promote inner peace and mindfulness.
+- [Pride Link](https://goncalves95.github.io/rainbow_Devs/): Welcome to "Pride Link"! This app that celebrates diversity and inclusivity in the LGBTQ+ community. The website features a Progress Pride Flag, which is a modified version of the traditional Pride Flag that includes additional colors to represent marginalized groups within the community.
 
 <hr>
 
