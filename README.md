@@ -145,7 +145,7 @@ Here is an overview of the languages I speak along with my proficiency levels:
 Feel free to connect me through the following platforms:
 
 - **LinkedIn**: [Fernando Goncalves](https://www.linkedin.com/in/fernando-goncalves2202)
-- **Website**: [iamfernando.io](http://www.iamfernando.io)
+- **Website**: [iamfernando.io](https://iamfernando.vercel.app/)
 - **Email**: [fernando_jcg22@hotmail.com](mailto:fernando_jcg22@hotmail.com)
 
   ---
