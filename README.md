@@ -161,5 +161,5 @@ Feel free to connect me through the following platforms:
 
   ---
 
-⭐️ From [Fernando Gonçalves](https://github.com/Goncalves95) <!-- YEAR -->2024<!-- /YEAR -->
+⭐️ From [Fernando Gonçalves](https://github.com/Goncalves95) <!-- YEAR -->2026<!-- /YEAR -->
 <hr>
