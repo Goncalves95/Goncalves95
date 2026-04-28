@@ -1,0 +1,25 @@
+name: Update Year
+
+on:
+  schedule:
+    - cron: '0 0 1 1 *'  # Corre dia 1 de Janeiro à meia-noite
+  workflow_dispatch:       # Permite correr manualmente também
+
+jobs:
+  update-year:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update year in README
+        run: |
+          YEAR=$(date +'%Y')
+          sed -i "s/<!-- YEAR -->.*<!-- \/YEAR -->/<!-- YEAR -->${YEAR}<!-- \/YEAR -->/g" README.md
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🗓️ Update year to $YEAR"
+          git push
