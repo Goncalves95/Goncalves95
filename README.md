@@ -4,10 +4,10 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello 👋, I'm Fernando Gonçalves
 
-## Full Stack Software Developer | Predictive Analytics Specialist | Zürich, Switzerland 🇨🇭
+## Full Stack Developer | Java · Angular · Python & ML | Zürich, Switzerland 🇨🇭
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-goncalves2202/)
-[![iamfernando.io](https://img.shields.io/badge/My_Website-333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://iamfernando.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernando-goncalves2202/](https://www.linkedin.com/in/fernandojcgoncalves/))
+[![iamfernando.io](https://img.shields.io/badge/My_Website-333?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://iamfernando.io](https://iamfernando.vercel.app/))
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Goncalves95?tab=repositories)
 
 ---
@@ -25,6 +25,7 @@ I'm a passionate Full Stack Developer with expertise in Data Analytics and Machi
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python%20-%23004D7A.svg?&style=for-the-badge&logo=python&logoColor=ffdf76)
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
@@ -36,10 +37,16 @@ I'm a passionate Full Stack Developer with expertise in Data Analytics and Machi
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### APIs & Integration
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Data Science & Machine Learning
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -54,7 +61,7 @@ I'm a passionate Full Stack Developer with expertise in Data Analytics and Machi
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
@@ -71,7 +78,15 @@ I'm a passionate Full Stack Developer with expertise in Data Analytics and Machi
 
 ## 📊 GitHub Statistics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=goncalves95&layout=compact&theme=react)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalves95&layout=compact&theme=react)
+
+---
+
+## 🗣️ Most Used Languages Across Repositories
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Goncalves95&layout=donut&theme=react&langs_count=10&hide_border=true)
+
+> 📌 This chart reflects the most used programming languages across all my public repositories.
 
 ---
 
@@ -79,20 +94,16 @@ I'm a passionate Full Stack Developer with expertise in Data Analytics and Machi
 
 Feel free to reach out to me for collaborations or opportunities!
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-goncalves2202/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandojcg22@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernando-goncalves2202/](https://www.linkedin.com/in/fernandojcgoncalves/))
 
 ---
-
-⭐️ From [Fernando Gonçalves](https://github.com/Goncalves95)
-<hr>
 
 ## Projects
 I'd like to highlight a few interesting projects I've worked on:
 - [Algarve Chef Prime](https://goncalves95.github.io/Algarve_Chef_Prime/): Website developed with css and html. Developed for a company of private chefs who provide services for homes and private events and my 1st university project. [Code source](https://github.com/Goncalves95/Algarve_Chef_Prime)
 - [Feed the Snake](https://goncalves95.github.io/snake_game/): Snake game developed in HTML, CSS and JavaScript, Developed for my 2nd university project. [Code source](https://github.com/Goncalves95/snake_game)
-- [Love Maths](https://goncalves95.github.io/love-maths/): Maths game developed in HTML, CSS and JavaScript. Developed for the JavaScript  
- university evaluation. [Code source](https://github.com/Goncalves95/love-maths)
+- [Love Maths](https://goncalves95.github.io/love-maths/): Maths game developed in HTML, CSS and JavaScript. Developed for the JavaScript university evaluation. [Code source](https://github.com/Goncalves95/love-maths)
 - [Love Sandwichs](love-sandwiches50-20c2d4696594.herokuapp.com/): Love Sandwiches was developed in Python. Developed for the Python university evaluation. Project use Google API and Heroku deployment. [Code source](https://github.com/Goncalves95/LoveSandwiches)
 - [Hangman 5.0 Game](https://hangman50-78a96d76c638.herokuapp.com/): Hangman 5.0 game developed in Python and deploy on herokuapp. Developed for my 3rd university project. [Code source](https://github.com/Goncalves95/Hangman-5.0)
 
@@ -102,15 +113,15 @@ I'd like to highlight a few interesting projects I've worked on:
 - Participated in "Halloween Hackathon" at Code Institute. Developed a Halloween-themed project with my team. [Witchway Tracker](https://sasantazayoni.github.io/PhantomForge/). [Code source](https://github.com/Goncalves95/PhantomForge)
 - Participated in "SECRET SANTA: A HOLIDAY HACKATHON" at Code Institute. Developed a New Year's countdown project with my team. [Loading 2024 ...](https://yoda-app-48cdcbb359cb.herokuapp.com/). [Code source](https://github.com/Goncalves95/new-years-countdown)
 - Participated in "Cupid's Code Quest HACKATHON" at Code Institute. This is more than just an app - it's a bridge to unite hearts separated by distance. If you're in a long-distance relationship, you know how challenging it can be to maintain connection and intimacy. [Miles & Smiles ](https://miles-and-smiles-03ded9dd0f57.herokuapp.com/). [Code source](https://github.com/Goncalves95/the-love-bugs?tab=readme-ov-file)
-- Participated in "STAR WARS MAY HACKATHON" at Code Institute.Developed a responsive application that immerses users in the galaxy far, far away with guided meditations, authentic Star Wars sound effects, and various meditation styles to promote inner peace and mindfulness. [INNER FORCE](https://nacht-falter.github.io/new-years-countdown/index.html). [Code source](https://github.com/Goncalves95/star-wars-hackathon-2024)
+- Participated in "STAR WARS MAY HACKATHON" at Code Institute. Developed a responsive application that immerses users in the galaxy far, far away with guided meditations, authentic Star Wars sound effects, and various meditation styles to promote inner peace and mindfulness. [INNER FORCE](https://nacht-falter.github.io/new-years-countdown/index.html). [Code source](https://github.com/Goncalves95/star-wars-hackathon-2024)
 - Participated in "Proud Coders 🏳️‍🌈: July 2024 Hackathon" at Code Institute. Developed a app that celebrates diversity and inclusivity in the LGBTQ+ community. The website features a Progress Pride Flag, which is a modified version of the traditional Pride Flag that includes additional colors to represent marginalized groups within the community. [Pride Link](https://goncalves95.github.io/rainbow_Devs/). [Code source](https://github.com/Goncalves95/rainbow_Devs/)
 
 <hr>
 
 ## Certifications
 - [Full Stack Development Certification](https://www.credential.net/9d3b1d62-d3d5-4d8a-812d-2614f9005c35): Obtained in August 2024
--  Bachelor's Degree in Software Engineering / Data Science from Universidade Aberta Lisbon (2023 - 2026)
-- [Hackathon at Code Institute](https://eu.badgr.com/public/assertions/DcuxCkL4TLCgbJF4cri27Q): Obtained in Octuber 2023
+- Bachelor's Degree in Software Engineering / Data Science from Universidade Aberta Lisbon (2023 - 2026)
+- [Hackathon at Code Institute](https://eu.badgr.com/public/assertions/DcuxCkL4TLCgbJF4cri27Q): Obtained in October 2023
 
 <hr>
 
@@ -144,12 +155,11 @@ Here is an overview of the languages I speak along with my proficiency levels:
 
 Feel free to connect me through the following platforms:
 
-- **LinkedIn**: [Fernando Goncalves](https://www.linkedin.com/in/fernando-goncalves2202)
+- **LinkedIn**: [Fernando Goncalves]([https://www.linkedin.com/in/fernando-goncalves2202](https://www.linkedin.com/in/fernandojcgoncalves/))
 - **Website**: [iamfernando.io](https://iamfernando.vercel.app/)
-- **Email**: [fernando_jcg22@hotmail.com](mailto:fernando_jcg22@hotmail.com)
+- **Email**: [fernando_jcg22@hotmail.com](mailto:fernandojcg22@gmail.com)
 
   ---
 
-⭐️ From [Fernando Gonçalves](https://github.com/Goncalves95) 2024
+⭐️ From [Fernando Gonçalves](https://github.com/Goncalves95) <!-- YEAR -->2024<!-- /YEAR -->
 <hr>
-
